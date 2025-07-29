@@ -1,4 +1,4 @@
-![header](https://github.com/sabmwqes/sabmwqes/blob/4438edaf5c6b826c7d60a147b514f0205f019fc9/homepage-bg-named.png)
+[![My Homepage](https://raw.githubusercontent.com/sabmwqes/sabmwqes/main/homepage-bg-named.png)](https://sabmwqes.github.io/)
 
 
   
@@ -11,16 +11,15 @@
 
 | Primary |
 | ---- |
-| [![My Skills](https://skillicons.dev/icons?i=py,ts,js,cs,react,vscode)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=py,ts,js,react,css,vscode)](https://skillicons.dev) |
 
 | Secondary |
 | ---- |
-| [![My Skills](https://skillicons.dev/icons?i=c,java,go,html,css,aws)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=c,cs,java,go,html,aws)](https://skillicons.dev) |
 
 <br>
 
 ![sabmwqes's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabmwqes&show_icons=true&theme=tokyonight)
-
 
 <hr>
 
