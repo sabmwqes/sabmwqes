@@ -29,8 +29,8 @@
 # In-Development Repositories
 | Name | Description | Status |
 | ---- | ----------- | ------ |
-| [Taskhroma](https://sabmwqes.github.io/taskhroma/) | Completely normal to-do app | Occasional |
-| [Amatarix](https://sabmwqes.github.io/amatarix/) | Browser game? | Dormant |
+| [Taskhroma](https://sabmwqes.github.io/taskhroma/) | Completely normal to-do app | <span style="color:#af0;">Occasional</span> |
+| [Amatarix](https://sabmwqes.github.io/amatarix/) | Browser game? | <span style="color:#f60;">Dormant</span> |
 
 
 # Links
