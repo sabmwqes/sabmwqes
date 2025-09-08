@@ -1,13 +1,15 @@
 [![My Homepage](https://raw.githubusercontent.com/sabmwqes/sabmwqes/main/homepage-bg-named.png)](https://sabmwqes.github.io/)
 
 
+
   
 > [!TIP]
 > Not only may the information here be outdated, but you should also take it with a grain of salt.
 
+
 <div align='center'>
 
-<hr>
+<img src="https://raw.githubusercontent.com/sabmwqes/sabmwqes/main/beat-b.svg" alt="Blue Divider" width="100%"/>
 
 | Primary |
 | ---- |
@@ -21,7 +23,7 @@
 
 ![sabmwqes's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabmwqes&show_icons=true&theme=tokyonight)
 
-<hr>
+<img src="https://raw.githubusercontent.com/sabmwqes/sabmwqes/main/beat-g.svg" alt="Green Divider" width="100%"/>
 
 # Links
 [Homepage](https://sabmwqes.github.io/)

@@ -1,0 +1,15 @@
+<svg width="600" height="60" viewBox="0 0 600 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- サイバー風区切り線 -->
+  <rect x="0" y="28" width="600" height="4" rx="2" fill="rgba(0, 0, 255, 0.25)" />
+  <rect x="0" y="28" width="600" height="2" rx="1" fill="rgba(0,255,255,0.5)" />
+
+  <!-- 中央の青いランプ（横長六角形＋グロー効果） -->
+
+  <!-- 六角形の枠 -->
+  <polygon points="270,30 282,25 318,25 330,30 318,35 282,35" stroke="#888" stroke-width="2" fill="#111" />
+
+  <!-- 枠より一回り小さいランプ（点滅アニメーション） -->
+  <polygon id="lamp" points="275,30 283,27 317,27 325,30 317,33 283,33" fill="#00BFFF">
+    <animate attributeName="opacity" values="1;0.75" dur="0.3s" repeatCount="indefinite" />
+  </polygon>
+</svg>
