@@ -13,11 +13,11 @@
 
 | Primary |
 | ---- |
-| [![My Skills](https://skillicons.dev/icons?i=py,ts,js,react,css,vscode)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=py,react,ts,css,git,vscode)](https://skillicons.dev) |
 
 | Secondary |
 | ---- |
-| [![My Skills](https://skillicons.dev/icons?i=c,cs,java,go,html,aws)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=c,cs,js,java,go,aws)](https://skillicons.dev) |
 
 <br>
 
@@ -25,16 +25,16 @@
 
 <img src="https://raw.githubusercontent.com/sabmwqes/sabmwqes/main/beat-g.svg" alt="Green Divider" width="100%"/>
 
+
+# In-Development Repositories
+| Name | Description | Status |
+| ---- | ----------- | ------ |
+| [Taskhroma](https://sabmwqes.github.io/taskhroma/) | Completely normal to-do app | Occasional |
+| [Amatarix](https://sabmwqes.github.io/amatarix/) | Browser game? | Dormant |
+
+
 # Links
 [Homepage](https://sabmwqes.github.io/)
-
-<!--
-## 📂 Featured Repositories
-| Name | Description |
-| ---- | ----------- |
-| [Taskhroma (WIP)](https://sabmwqes.github.io/taskhroma/) | Completely normal to-do app. |
-| [Amatarix (WIP)](https://sabmwqes.github.io/amatarix/) | ??? |
--->
 
 </div>
 
