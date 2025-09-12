@@ -1,0 +1,113 @@
+<svg width="590" height="300" viewBox="0 0 590 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<!-- グラデーション -->
+		<linearGradient id="blueGreenGrad" x1="0%" y1="0%" x2="0%" y2="100%" gradientUnits="objectBoundingBox">
+			<stop offset="0%" stop-color="#00BFFF" />
+			<stop offset="100%" stop-color="#00FF88" />
+		</linearGradient>
+		<!-- 発光エフェクト用フィルター -->
+		<filter id="glow" x="-50%" y="-10%" width="200%" height="120%" filterUnits="objectBoundingBox">
+			<feGaussianBlur stdDeviation="6" result="blur" />
+			<feMerge>
+				<feMergeNode in="blur" />
+				<feMergeNode in="SourceGraphic" />
+			</feMerge>
+		</filter>
+	</defs>
+
+		<!-- バー（アニメーション付き） -->
+		<g transform="scale(1,-1) translate(0,-300)">
+<rect x="10" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="137;27.4;184;36.8;173;34.6;269;53.8" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="35" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="214;42.8;104;20.8;241;48.2;148;29.6" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="60" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="125;25.0;178;35.6;235;47.0;69;13.8" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="85" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="195;39.0;87;17.4;286;57.2;261;52.2" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="110" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="290;58.0;135;27.0;250;50.0;88;17.6" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="135" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="252;50.4;281;56.2;195;39.0;187;37.4" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="160" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="283;56.6;163;32.6;223;44.6;132;26.4" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="185" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="271;54.2;116;23.2;193;38.6;290;58.0" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="210" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="64;12.8;282;56.4;129;25.8;291;58.2" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="235" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="243;48.6;261;52.2;274;54.8;297;59.4" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="260" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="151;30.2;220;44.0;116;23.2;95;19.0" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="285" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="283;56.6;142;28.4;75;15.0;233;46.6" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="310" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="88;17.6;285;57.0;151;30.2;195;39.0" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="335" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="270;54.0;161;32.2;143;28.6;146;29.2" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="360" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="205;41.0;185;37.0;209;41.8;148;29.6" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="385" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="148;29.6;128;25.6;205;41.0;163;32.6" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="410" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="50;10.0;221;44.2;196;39.2;84;16.8" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="435" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="85;17.0;168;33.6;292;58.4;114;22.8" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="460" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="121;24.2;137;27.4;175;35.0;121;24.2" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="485" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="242;48.4;174;34.8;155;31.0;79;15.8" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="510" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="133;26.6;233;46.6;300;60.0;190;38.0" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="535" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="263;52.6;204;40.8;278;55.6;130;26.0" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="560" y="0" width="20" height="0" fill="url(#blueGreenGrad)" filter="url(#glow)">
+   <animate attributeName="height" values="172;34.4;193;38.6;158;31.6;277;55.4" keyTimes="0.0;0.25;0.26;0.5;0.51;0.75;0.76;1.0" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+</g>
+
+</svg>

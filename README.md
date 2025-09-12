@@ -1,8 +1,6 @@
 [![My Homepage](https://raw.githubusercontent.com/sabmwqes/sabmwqes/main/homepage-bg-named.png)](https://sabmwqes.github.io/)
 
 
-
-  
 > [!TIP]
 > Not only may the information here be outdated, but you should also take it with a grain of salt.
 
@@ -37,6 +35,8 @@
 [Homepage](https://sabmwqes.github.io/)
 
 </div>
+
+<img src="https://raw.githubusercontent.com/sabmwqes/sabmwqes/main/spectrum.svg" alt="Spectrum" width="100%"/>
 
 
 <div align="right">🗿</div>
